@@ -18,6 +18,7 @@ function App() {
       <h1>Welcome</h1>
       <div>
         <Link to="/">Home</Link> {' '}
+        <Link to="product">Product</Link>
         <Link to="About">About</Link>
 
       </div>
