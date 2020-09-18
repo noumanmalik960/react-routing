@@ -1,3 +1,31 @@
+# nested routers branch
+
+
+This branch contains 
+    - nested routing and 
+    - how to navigate dynamically between pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Basics of React Routing 
 
 1. First we have to install react routing and history as:
