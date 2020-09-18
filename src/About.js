@@ -5,7 +5,7 @@ import React from 'react';
 function About() {
     return (
         <div>
-            About
+            <h3>About</h3>
         </div>
     )
 }

@@ -1,13 +1,14 @@
 import React from 'react';
-import { useParams } from 'react-router';
+import { Outlet } from 'react-router-dom'
 
 
 
 function Product() {
-    const {productId } = useParams()
     return (
         <div>
-            Product {productId}
+            <h2>Product Page</h2>
+            <hr />
+            <Outlet />
         </div>
     )
 }
