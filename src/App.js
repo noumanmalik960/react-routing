@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 
 import { Routes, Route, useNavigate } from 'react-router';
+// This useNavigate is used when we want to redirect to a specific page on a button click
 import { Link } from 'react-router-dom';
 
 import Home from './Home';
